@@ -14,5 +14,4 @@ ForagerBee.prototype.forage = function(treasure) {
   this.treasureChest.push(treasure);
 }
 
-//forage method not working
-//run debugger on that test
+
