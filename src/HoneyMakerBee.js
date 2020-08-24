@@ -13,7 +13,7 @@ HoneyMakerBee.prototype.makeHoney = function() {
   this.honeyPot++;
 }
 
-HoneyMakerBee.prototype.makeHoney = function() {
+HoneyMakerBee.prototype.giveHoney = function() {
   this.honeyPot--;
 }
 
